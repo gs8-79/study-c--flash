@@ -1,0 +1,4 @@
+Circle 3 4.0
+Rectangle 3 4 2.0
+RightTriangle 3 4 3.5
+Square 5 1.5
